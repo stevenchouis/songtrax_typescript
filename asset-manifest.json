@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/songtrax_typescript/static/js/main.e678bc59.js",
+    "index.html": "/songtrax_typescript/index.html",
+    "main.e678bc59.js.map": "/songtrax_typescript/static/js/main.e678bc59.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e678bc59.js"
+  ]
+}
